@@ -10,6 +10,7 @@ packages = [{include = "dvmn_support_bot"}]
 python = "^3.10"
 python-telegram-bot = "^20.4"
 python-dotenv = "^1.0.0"
+google-cloud-dialogflow = "^2.23.2"
 
 
 [build-system]
